@@ -1,24 +1,9 @@
 
-<<p align="center">
-  <svg viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#ff0000">
-          <animate attributeName="stop-color" values="#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8f00ff;#ff0000" dur="5s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#8f00ff">
-          <animate attributeName="stop-color" values="#8f00ff;#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8f00ff" dur="5s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="60" font-family="Verdana, Geneva, sans-serif" fill="url(#rainbow)">
-      Hello, I am Harshit Singh
-    </text>
-  </svg>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WeebMeetsCheck/WeebMeetsCheck/53f822bb3c68a8059a50174038413c48b8735d93/WhatsApp%20Image%202025-08-08%20at%2011.02.14_e41fa091.jpg" alt="Harshit Singh Banner" width="100%" />
 </p>
-!--# Hi, I'm Harshit Singh! 👋
 
-![Banner](https://raw.githubusercontent.com/HarshitSingh/HarshitSingh/main/banner.jpg) <!-- Replace with your uploaded banner image link -->
+
 
 
 ---
