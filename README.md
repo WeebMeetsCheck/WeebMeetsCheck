@@ -1,5 +1,6 @@
-
-
+<p align="center">
+  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/HI-I-AM-HARSHIT-10-08-2025.gif?raw=true" alt="Hello I am Harshit Singh" width="100%" />
+</p>
 
 
 <p align="center">
