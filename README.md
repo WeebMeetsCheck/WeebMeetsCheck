@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🌈+Hello%2C+I+am+Harshit+Singh!+🌈" alt="Hello I am Harshit Singh">
-</h1>
+
 
 
 
