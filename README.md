@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🌈+Hello%2C+I+am+Harshit+Singh!+🌈" alt="Hello I am Harshit Singh">
+</h1>
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WeebMeetsCheck/WeebMeetsCheck/53f822bb3c68a8059a50174038413c48b8735d93/WhatsApp%20Image%202025-08-08%20at%2011.02.14_e41fa091.jpg" alt="Harshit Singh Banner" width="100%" />
