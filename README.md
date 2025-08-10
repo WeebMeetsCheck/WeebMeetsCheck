@@ -1,3 +1,20 @@
+
+<!--# Hi, I'm Harshit Singh! 👋
+
+![Banner](https://raw.githubusercontent.com/HarshitSingh/HarshitSingh/main/banner.jpg) <!-- Replace with your uploaded banner image link -->
+
+## 🚀 About Me
+
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/weebmeetscheck/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-singh-4b9029360/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/WeebMeetsCheck/)
+
+---
+
 ## 🛠 Skills
 
 ### 💻 Programming & Scripting Languages
@@ -23,7 +40,24 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<!--
+---
+
+## 📊 GitHub Stats
+
+![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitSingh&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitSingh&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitSingh&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=HarshitSingh&theme=onedark)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/HarshitSingh/HarshitSingh/blob/output/github-contribution-grid-snake.svg)
+
 **WeebMeetsCheck/WeebMeetsCheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
