@@ -1,9 +1,25 @@
 
-<!--# Hi, I'm Harshit Singh! 👋
+<<p align="center">
+  <svg viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff0000">
+          <animate attributeName="stop-color" values="#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8f00ff;#ff0000" dur="5s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#8f00ff">
+          <animate attributeName="stop-color" values="#8f00ff;#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8f00ff" dur="5s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="60" font-family="Verdana, Geneva, sans-serif" fill="url(#rainbow)">
+      Hello, I am Harshit Singh
+    </text>
+  </svg>
+</p>
+!--# Hi, I'm Harshit Singh! 👋
 
 ![Banner](https://raw.githubusercontent.com/HarshitSingh/HarshitSingh/main/banner.jpg) <!-- Replace with your uploaded banner image link -->
 
-## 🚀 About Me
 
 ---
 
@@ -55,19 +71,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/HarshitSingh/HarshitSingh/blob/output/github-contribution-grid-snake.svg)
+## 📈 Activity Graph
+![Harshit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitSingh&theme=tokyo-night)
 
-**WeebMeetsCheck/WeebMeetsCheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
