@@ -61,6 +61,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WeebMeetsCheck/WeebMeetsCheck/output/github-contribution-grid-snake.svg" alt="Neon Green Snake Animation" />
+  <br>
+  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/StickersAndMemes/fire-piano.gif?raw=true" alt="Fire Piano" />
+</p>
+
+
 ## My GitHub Vibes
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=WeebMeetsCheck&theme=merko)
