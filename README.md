@@ -47,11 +47,19 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/raw/StickersAndMemes/dog.gif" alt="Dog GIF">
+</p>
+
+
+
 ## 📊 GitHub Stats
 
 ![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitSingh&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitSingh&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitSingh&layout=compact&theme=tokyonight)
+
+
 
 ---
 
@@ -61,6 +69,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/raw/StickersAndMemes/Cutee.gif" alt="Cutee GIF">
+</p>
 
 
 ## My GitHub Vibes
