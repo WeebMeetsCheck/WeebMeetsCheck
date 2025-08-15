@@ -89,6 +89,10 @@
   <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/I-push-regularly-because-I-lik-8-15-2025%20(1).gif?raw=true" alt="GIF 2">
 </p>
 
+<p align="center">
+  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/I-LOVE-CYBER-VIBES-8-15-2025.gif?raw=true" alt="I LOVE CYBER VIBES">
+</p>
+
 
 
 
