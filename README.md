@@ -56,11 +56,20 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=HarshitSingh&theme=onedark)
 
 ---
 
 ## 📈 Activity Graph
 ![Harshit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitSingh&theme=tokyo-night)
+
+
+
+https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/self-awareness-warning.gif?raw=true
+
+
+
+
 
 
