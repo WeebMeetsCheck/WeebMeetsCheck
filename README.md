@@ -48,8 +48,9 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/StickersAndMemes/dog%20wink%20Sticker.gif?raw=true" alt="Dog Wink Sticker">
+  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/raw/StickersAndMemes/dog%20wink%20Sticker.gif" alt="Dog Wink Sticker">
 </p>
+
 
 
 
