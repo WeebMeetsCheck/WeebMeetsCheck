@@ -1,0 +1,30 @@
+name: Generate Snake Animation (Green Glow)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: WeebMeetsCheck
+          outputs: dist/github-contribution-grid-snake.svg
+          snake_color: "#00ff00" # Neon green
+          snake_speed: 3
+
+      - name: Push Snake to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "Generated snake animation"
+          add: "dist/github-contribution-grid-snake.svg"
+          branch: output
