@@ -63,12 +63,11 @@
 
 ## My GitHub Vibes
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=WeebMeetsCheck&theme=github-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=WeebMeetsCheck&theme=merko)
 
 <p align="center">
   <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/StickersAndMemes/fire-piano.gif?raw=true" alt="Fire Piano" />
 </p>
-
 
 
 
