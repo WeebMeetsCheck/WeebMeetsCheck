@@ -61,6 +61,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/StickersAndMemes/futuristic-fire-piano-banner.gif?raw=true" alt="Futuristic Neon GitHub Graph with Fire Piano" />
+</p>
+
+
+
+
 ## 📈 Activity Graph
 ![Harshit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitSingh&theme=tokyo-night)
 
