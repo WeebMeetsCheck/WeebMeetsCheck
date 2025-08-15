@@ -47,6 +47,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/StickersAndMemes/dog%20wink%20Sticker.gif?raw=true" alt="Dog Wink Sticker">
+</p>
+
+
+
 ## 📊 GitHub Stats
 
 ![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitSingh&show_icons=true&theme=tokyonight)
