@@ -65,8 +65,9 @@
 ![Harshit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitSingh&theme=tokyo-night)
 
 
-
-https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/self-awareness-warning.gif?raw=true
+<p align="center">
+  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/self-awareness-warning.gif?raw=true" alt="Self-Awareness Warning" />
+</p>
 
 
 
