@@ -69,6 +69,9 @@
   <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/self-awareness-warning.gif?raw=true" alt="Self-Awareness Warning" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/I-Do-Not-Farm-Contributions-Or-8-15-2025%20(1).gif?raw=true" alt="I Do Not Farm Contributions Or 8-15-2025 Warning" />
+</p>
 
 
 
