@@ -25,25 +25,21 @@
 ### 💻 Programming & Scripting Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 
 ### 🛠 Tools & Technologies
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker Desktop](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ### 💻 Operating Systems & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 ---
 
@@ -53,20 +49,6 @@
 
 
 
-## 📊 GitHub Stats
-
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitSingh&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitSingh&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitSingh&layout=compact&theme=tokyonight)
-
-
-
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=HarshitSingh&theme=onedark)
-
 ---
 
 <p align="center">
@@ -74,28 +56,6 @@
 </p>
 
 
-## My GitHub Vibes
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=WeebMeetsCheck&theme=merko)
-
-<p align="center">
-  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/StickersAndMemes/fire-piano.gif?raw=true" alt="Fire Piano" />
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/self-awareness-warning.gif?raw=true" alt="Self-Awareness Warning" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/I-Do-Not-Farm-Contributions-Or-8-15-2025%20(1).gif?raw=true" alt="I Do Not Farm Contributions Or 8-15-2025 Warning" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/I-push-regularly-because-I-lik-8-15-2025%20(1).gif?raw=true" alt="GIF 2">
-</p>
 
 <p align="center">
   <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/I-LOVE-CYBER-VIBES-8-15-2025.gif?raw=true" alt="I LOVE CYBER VIBES">
