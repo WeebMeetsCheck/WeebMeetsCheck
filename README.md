@@ -2,14 +2,6 @@
   <img src="https://github.com/WeebMeetsCheck/WeebMeetsCheck/blob/main/HI-I-AM-HARSHIT-10-08-2025.gif?raw=true" alt="Hello I am Harshit Singh" width="100%" />
 </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WeebMeetsCheck/WeebMeetsCheck/53f822bb3c68a8059a50174038413c48b8735d93/WhatsApp%20Image%202025-08-08%20at%2011.02.14_e41fa091.jpg" alt="Harshit Singh Banner" width="100%" />
-</p>
-
-
-
-
 ---
 
 ## 🌐 Connect With Me
